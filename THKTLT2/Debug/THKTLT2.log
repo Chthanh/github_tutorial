@@ -1,0 +1,4 @@
+﻿  THKTLT2.cpp
+C:\Users\Admin\Desktop\luyencode\THKTLT2\THKTLT2\THKTLT2.cpp(126,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\luyencode\THKTLT2\THKTLT2\THKTLT2.cpp(136,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  THKTLT2.vcxproj -> C:\Users\Admin\Desktop\luyencode\THKTLT2\Debug\THKTLT2.exe
